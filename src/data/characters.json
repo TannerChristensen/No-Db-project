@@ -1,0 +1,80 @@
+[
+    {
+        "id": 0,
+        "title": "Halo",
+        "name": "Master Chief",
+        "year": 2001,
+        "characterImg": "https://qph.fs.quoracdn.net/main-qimg-04c3ad65a7cd1794c82088494921180c"
+    },
+    {
+        "id": 1,
+        "title": "The legend of Zelda",
+        "name": "Link",
+        "year": 1986,
+        "characterImg": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.denofgeek.com%2Fgames%2Fthe-legend-of-zelda-ranking-links-18-adventures%2F&psig=AOvVaw3_tK_KCyaQdzYapBT3liCZ&ust=1604180908792000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjIu92l3ewCFQAAAAAdAAAAABAF"
+    },
+    {
+        "id": 2,
+        "title": "Portal",
+        "name": "Glados",
+        "year": 2007,
+        "characterImg": "https://i1.theportalwiki.net/img/thumb/7/79/GLaDOS_P2.png/400px-GLaDOS_P2.png"
+    },
+    {
+        "id": 3,
+        "title": "God of War",
+        "name": "Kratos",
+        "year": 2005,
+        "characterImg": "https://giantbomb1.cbsistatic.com/uploads/scale_small/1/14876/3065098-7871971516-4rstn.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Tomb Raider",
+        "name": "Lara Croft",
+        "year": 1996,
+        "posterImg": "https://the-void.co.uk/wp-content/uploads/2013/06/Tomb-Raider-original-game.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Minecraft",
+        "name": "Steve",
+        "year": 2009,
+        "posterImg": "https://static.wikia.nocookie.net/characters/images/b/b3/SteveMinecraft.png/revision/latest?cb=20160127082617"
+    },
+    {
+        "id": 6,
+        "title": "Call of Duty",
+        "name": "Ghost",
+        "year": 2009,
+        "posterImg": "https://static.wikia.nocookie.net/callofduty/images/1/18/SimonRiley_Mobile.jpg/revision/latest?cb=20191005151053"
+    },
+    {
+        "id": 7,
+        "title": "Metal Gear",
+        "name": "Solid Snake",
+        "year": 1986,
+        "posterImg": "https://ichef.bbci.co.uk/news/976/cpsprodpb/8EAB/production/_84232563_solidsnake2.png"
+    },
+    {
+        "id": 8,
+        "title": "Pac-Man",
+        "name": "Pac-Man",
+        "year": 1980,
+        "posterImg": "https://cdn.vox-cdn.com/thumbor/Ro8tFMu3c3LGSAbd-mMDNuvu01Q=/0x0:1301x1000/1200x800/filters:focal(547x396:755x604)/cdn.vox-cdn.com/uploads/chorus_image/image/55505037/pac_man_vs.0.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Gears of War",
+        "name": "Marcus Fenix",
+        "year": 2006,
+        "posterImg": "https://images.squarespace-cdn.com/content/v1/5984762acd0f685f36958a96/1526918121951-CFP2EQ8UI6K9546AM42G/ke17ZwdGBToddI8pDm48kDITAuO7WvGYe_HtkNx7UXUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccSshEJlWdTt0omCZRbgujVtY4VXZAEc5nErFE5qOWR3S1FgW-KjVULYQWGVDwFXf/heber-alvarado-image11.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Metroid",
+        "name": "Samus Aran",
+        "year": 1986,
+        "posterImg": "https://i.pinimg.com/originals/e2/a0/0b/e2a00ba7a9be60135df69121b438e9a4.jpg"
+    }
+]
+
